@@ -20,5 +20,3 @@ Aplicativo mobile para controle de lista de compras desenvolvido em .NET MAUI.
 3. Selecione plataforma (Android/iOS/Windows)
 4. Execute (F5)
 
-## 👨‍💻 Desenvolvido por
-[Seu Nome] - Disciplina Desenvolvimento de Sistemas III
